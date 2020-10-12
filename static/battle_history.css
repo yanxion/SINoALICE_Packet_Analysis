@@ -1,0 +1,17 @@
+.weapon_list{
+    padding-top: 5%;
+}
+.user_list font:hover{
+    /* background-color:red; */
+    color: red;
+}
+.user_list font:focus{
+    background-color: blue;
+}
+.weapon_list h5:hover{
+    /* background-color:red; */
+    color: red;
+}
+.weapon_list h5:focus-within{
+    background-color: red;
+}
